@@ -22,8 +22,7 @@ Template.hello.events({
   'click button'(event, instance) {
     // increment the counter when button is clicked
 
-    var signature = Meteor.settings.public.filepicker.pickSignature;
-    var policy = Meteor.settings.public.filepicker.pickPolicy;
+
     console.log("here 1")
       filepicker.pickMultiple(
         {
