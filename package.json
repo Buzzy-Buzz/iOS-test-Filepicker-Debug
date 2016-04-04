@@ -1,0 +1,11 @@
+{
+  "name": "iOS-test",
+  "private": true,
+  "scripts": {
+    "start": "meteor run"
+  },
+  "dependencies": {
+    "meteor-node-stubs": "~0.2.0",
+    "filepicker-js": "^2.4.5"
+  }
+}

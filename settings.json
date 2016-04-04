@@ -1,0 +1,16 @@
+{
+
+  "filepicker": {
+
+    "secret": "<PUT FILEPICKER SECRET HERE>"
+
+  },
+  "public": {
+
+    "filepicker": {
+      "key": "<PUT FILE PICKER KEY>"
+    }
+
+  }
+
+}
