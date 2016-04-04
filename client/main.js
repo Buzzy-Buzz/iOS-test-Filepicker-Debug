@@ -30,8 +30,6 @@ Template.hello.events({
           mimetype: '*/*',
           services: ['COMPUTER', 'FACEBOOK','INSTAGRAM', 'GOOGLE_DRIVE','DROPBOX','FLICKR','PICASA','URL','WEBCAM','CONVERT'],
           container: 'modal',
-          policy: policy,
-          signature:signature,
           conversions: ['crop', 'rotate', 'filter']
         },
 
