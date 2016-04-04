@@ -10,7 +10,7 @@ Template.hello.onCreated(function helloOnCreated() {
 });
 
 Template.hello.onRendered(function(){
-    filepicker.setKey('<PUT YOUR FILEPICKER KEY HERE>')
+    filepicker.setKey('A7jLisxUaSKmFWf6pP6vuz')
 });
 Template.hello.helpers({
   counter() {
